@@ -1,1 +1,2 @@
+include ':ucrop'
 rootProject.name = 'image_cropper'

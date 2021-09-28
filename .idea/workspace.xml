@@ -6,20 +6,23 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddc7fd92-b4d0-48b9-9730-b2122dd6d628" name="Default Changelist" comment="" />
+    <list default="true" id="ddc7fd92-b4d0-48b9-9730-b2122dd6d628" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,8 +75,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1632821905514">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1632821905514" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1632821905513">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1632821905513" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1632821905512">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1632821905512" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1632821905513">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1632821905513" />
     <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1632698909549">
       <screen x="0" y="25" width="1440" height="807" />
     </state>
