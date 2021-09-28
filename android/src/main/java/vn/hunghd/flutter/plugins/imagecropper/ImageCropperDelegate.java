@@ -7,6 +7,7 @@ import android.graphics.Color;
 import android.net.Uri;
 
 import com.yalantis.ucrop.UCrop;
+import com.yalantis.ucrop.UCropActivity;
 import com.yalantis.ucrop.model.AspectRatio;
 import com.yalantis.ucrop.view.CropImageView;
 
@@ -41,7 +42,7 @@ public class ImageCropperDelegate implements PluginRegistry.ActivityResultListen
         Integer compressQuality = call.argument("compress_quality");
         ArrayList<String> aspectRatioPresets = call.argument("aspect_ratio_presets");
         String initAspectRatio = call.argument("android.init_aspect_ratio");
-
+        
         pendingResult = result;
 
     File outputDir = activity.getCacheDir();

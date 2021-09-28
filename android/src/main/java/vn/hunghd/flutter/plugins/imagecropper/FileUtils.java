@@ -38,6 +38,8 @@ import java.io.OutputStream;
 class FileUtils {
 
     String getPathFromUri(final Context context, final Uri uri) {
+
+
         String path = getPathFromLocalUri(context, uri);
         if (path == null) {
             path = getPathFromRemoteUri(context, uri);

@@ -34,7 +34,6 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-//        implementation 'com.github.yalantis:ucrop:2.2.7'
-        implementation project(':ucrop')
+        implementation 'com.github.hitmanbui:uCrop-Custom:1.0.0'
     }
 }
