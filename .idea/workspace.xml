@@ -11,127 +11,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddc7fd92-b4d0-48b9-9730-b2122dd6d628" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/modules/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/modules/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/vn/hunghd/flutter/plugins/imagecropper/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/vn/hunghd/flutter/plugins/imagecropper/FileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/vn/hunghd/flutter/plugins/imagecropper/ImageCropperDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/vn/hunghd/flutter/plugins/imagecropper/ImageCropperDelegate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/UCrop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/UCropActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/UCropFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/UCropFragmentCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/callback/BitmapCropCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/callback/BitmapLoadCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/callback/CropBoundsChangeListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/callback/OverlayViewChangeListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/model/AspectRatio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/model/CropParameters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/model/ExifInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/model/ImageState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/task/BitmapCropTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/task/BitmapLoadTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/BitmapLoadUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/CubicEasing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/EglUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/FastBitmapDrawable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/FileUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/ImageHeaderParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/RectUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/RotationGestureDetector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/util/SelectedStateListDrawable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/view/CropImageView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/view/GestureCropImageView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/view/OverlayView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/view/TransformImageView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/view/UCropView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/view/widget/AspectRatioTextView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/java/com/yalantis/ucrop/view/widget/HorizontalProgressWheelView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jni/Android.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jni/Application.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jni/CImg.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jni/com_yalantis_ucrop_task_BitmapCropTask.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jni/uCrop.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jniLibs/arm64-v8a/libucrop.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jniLibs/armeabi-v7a/libucrop.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jniLibs/armeabi/libucrop.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jniLibs/x86/libucrop.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/jniLibs/x86_64/libucrop.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/anim/ucrop_loader_circle_path.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/anim/ucrop_loader_circle_scale.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/color/ucrop_scale_text_view_selector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-hdpi/ucrop_ic_angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-hdpi/ucrop_ic_done.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-ldpi/ucrop_ic_angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-ldpi/ucrop_ic_done.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-mdpi/ucrop_ic_angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-mdpi/ucrop_ic_done.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xhdpi/done_btn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xhdpi/rotate_left_ic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xhdpi/rotate_right_ic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xhdpi/ucrop_ic_angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xhdpi/ucrop_ic_done.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xxhdpi/ucrop_ic_angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xxhdpi/ucrop_ic_done.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xxxhdpi/ucrop_ic_angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable-xxxhdpi/ucrop_ic_done.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_crop.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_crop.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_crop_unselected.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_cross.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_next.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_reset.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_rotate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_rotate_unselected.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_scale.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_ic_scale_unselected.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_rotate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_scale.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_shadow_upside.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_vector_ic_crop.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_vector_loader.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_vector_loader_animated.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/drawable/ucrop_wrapper_controls_shape.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/layout/ucrop_activity_photobox.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/layout/ucrop_aspect_ratio.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/layout/ucrop_controls.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/layout/ucrop_fragment_photobox.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/layout/ucrop_layout_rotate_wheel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/layout/ucrop_layout_scale_wheel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/layout/ucrop_view.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/menu/ucrop_menu_activity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-de/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-es/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-fi/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-fr/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-it/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-ja/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-ko/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-nl/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-pt-br" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-sk/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-zh-rTW/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values-zh/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values/attrs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values/public.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ucrop/src/main/res/values/values.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_XL_API_30]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R58N34BHKKM]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -143,7 +46,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -174,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632821999852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="import custom design">
+      <created>1632829514621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632829514621</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,40 +103,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ucrop" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ucrop" />
+    <MESSAGE value="import custom design" />
+    <option name="LAST_COMMIT_MESSAGE" value="import custom design" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="164" key="GridCell.Tab.0.bottom" timestamp="1632828989618">
-      <screen x="0" y="25" width="1440" height="813" />
+    <state width="1398" height="161" key="GridCell.Tab.0.bottom" timestamp="1632959348925">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
+    <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1632959348925" />
     <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1632824986562" />
     <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.25.1440.813@0.25.1440.813" timestamp="1632828989618" />
-    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1632827961531" />
-    <state width="1398" height="164" key="GridCell.Tab.0.center" timestamp="1632828989617">
-      <screen x="0" y="25" width="1440" height="813" />
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1632829541797" />
+    <state width="1398" height="161" key="GridCell.Tab.0.center" timestamp="1632959348924">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
+    <state width="1398" height="161" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1632959348924" />
     <state width="1398" height="206" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1632824986560" />
     <state width="1398" height="164" key="GridCell.Tab.0.center/0.25.1440.813@0.25.1440.813" timestamp="1632828989617" />
-    <state width="1398" height="164" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1632827961531" />
-    <state width="1398" height="164" key="GridCell.Tab.0.left" timestamp="1632828989617">
-      <screen x="0" y="25" width="1440" height="813" />
+    <state width="1398" height="164" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1632829541796" />
+    <state width="1398" height="161" key="GridCell.Tab.0.left" timestamp="1632959348924">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
+    <state width="1398" height="161" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1632959348924" />
     <state width="1398" height="206" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1632824986560" />
     <state width="1398" height="164" key="GridCell.Tab.0.left/0.25.1440.813@0.25.1440.813" timestamp="1632828989617" />
-    <state width="1398" height="164" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1632827961530" />
-    <state width="1398" height="164" key="GridCell.Tab.0.right" timestamp="1632828989618">
-      <screen x="0" y="25" width="1440" height="813" />
+    <state width="1398" height="164" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1632829541795" />
+    <state width="1398" height="161" key="GridCell.Tab.0.right" timestamp="1632959348924">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
+    <state width="1398" height="161" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1632959348924" />
     <state width="1398" height="206" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1632824986561" />
     <state width="1398" height="164" key="GridCell.Tab.0.right/0.25.1440.813@0.25.1440.813" timestamp="1632828989618" />
-    <state width="1398" height="164" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1632827961531" />
+    <state width="1398" height="164" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1632829541796" />
     <state x="208" y="25" key="SettingsEditor" timestamp="1632827756725">
       <screen x="0" y="25" width="1440" height="813" />
     </state>
     <state x="208" y="25" key="SettingsEditor/0.25.1440.813@0.25.1440.813" timestamp="1632827756725" />
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1632698909549">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state x="320" y="166" key="Vcs.Push.Dialog.v2" timestamp="1632829521784">
+      <screen x="0" y="25" width="1440" height="814" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.807@0.25.1440.807" timestamp="1632698909549" />
+    <state x="320" y="166" key="Vcs.Push.Dialog.v2/0.25.1440.814@0.25.1440.814" timestamp="1632829521784" />
   </component>
 </project>

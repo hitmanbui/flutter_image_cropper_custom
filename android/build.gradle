@@ -34,6 +34,7 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-        implementation 'com.github.hitmanbui:uCrop-Custom:1.0.0'
+//        implementation 'com.github.hitmanbui:uCrop-Custom:1.0.0'
+        implementation 'com.github.hitmanbui:uCrop-Custom:v1.0.0-corner'
     }
 }
