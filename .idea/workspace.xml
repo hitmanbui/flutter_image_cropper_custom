@@ -11,30 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddc7fd92-b4d0-48b9-9730-b2122dd6d628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/modules/android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/modules/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R58N34BHKKM]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R58R10ZWKWA]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -86,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632829514621</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new version">
+      <created>1632959520813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632959520813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,34 +97,35 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ucrop" />
     <MESSAGE value="import custom design" />
-    <option name="LAST_COMMIT_MESSAGE" value="import custom design" />
+    <MESSAGE value="new version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="161" key="GridCell.Tab.0.bottom" timestamp="1632959348925">
+    <state width="1398" height="161" key="GridCell.Tab.0.bottom" timestamp="1633633378955">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1632959348925" />
+    <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1633633378955" />
     <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1632824986562" />
     <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.25.1440.813@0.25.1440.813" timestamp="1632828989618" />
     <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1632829541797" />
-    <state width="1398" height="161" key="GridCell.Tab.0.center" timestamp="1632959348924">
+    <state width="1398" height="161" key="GridCell.Tab.0.center" timestamp="1633633378954">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="161" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1632959348924" />
+    <state width="1398" height="161" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1633633378954" />
     <state width="1398" height="206" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1632824986560" />
     <state width="1398" height="164" key="GridCell.Tab.0.center/0.25.1440.813@0.25.1440.813" timestamp="1632828989617" />
     <state width="1398" height="164" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1632829541796" />
-    <state width="1398" height="161" key="GridCell.Tab.0.left" timestamp="1632959348924">
+    <state width="1398" height="161" key="GridCell.Tab.0.left" timestamp="1633633378953">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="161" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1632959348924" />
+    <state width="1398" height="161" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1633633378953" />
     <state width="1398" height="206" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1632824986560" />
     <state width="1398" height="164" key="GridCell.Tab.0.left/0.25.1440.813@0.25.1440.813" timestamp="1632828989617" />
     <state width="1398" height="164" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1632829541795" />
-    <state width="1398" height="161" key="GridCell.Tab.0.right" timestamp="1632959348924">
+    <state width="1398" height="161" key="GridCell.Tab.0.right" timestamp="1633633378954">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="161" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1632959348924" />
+    <state width="1398" height="161" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1633633378954" />
     <state width="1398" height="206" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1632824986561" />
     <state width="1398" height="164" key="GridCell.Tab.0.right/0.25.1440.813@0.25.1440.813" timestamp="1632828989618" />
     <state width="1398" height="164" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1632829541796" />
@@ -139,9 +133,10 @@
       <screen x="0" y="25" width="1440" height="813" />
     </state>
     <state x="208" y="25" key="SettingsEditor/0.25.1440.813@0.25.1440.813" timestamp="1632827756725" />
-    <state x="320" y="166" key="Vcs.Push.Dialog.v2" timestamp="1632829521784">
-      <screen x="0" y="25" width="1440" height="814" />
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2" timestamp="1632959529008">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.25.1440.805@0.25.1440.805" timestamp="1632959529008" />
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.807@0.25.1440.807" timestamp="1632698909549" />
     <state x="320" y="166" key="Vcs.Push.Dialog.v2/0.25.1440.814@0.25.1440.814" timestamp="1632829521784" />
   </component>
