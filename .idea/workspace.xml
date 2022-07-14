@@ -13,7 +13,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddc7fd92-b4d0-48b9-9730-b2122dd6d628" name="Default Changelist" comment="new library" />
+    <list default="true" id="ddc7fd92-b4d0-48b9-9730-b2122dd6d628" name="Default Changelist" comment="new library">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
@@ -94,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657841448285</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new library">
+      <created>1657841777322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657841777322</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,45 +125,5 @@
     <MESSAGE value="new version" />
     <MESSAGE value="new library" />
     <option name="LAST_COMMIT_MESSAGE" value="new library" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1398" height="161" key="GridCell.Tab.0.bottom" timestamp="1633633378955">
-      <screen x="0" y="25" width="1440" height="805" />
-    </state>
-    <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1633633378955" />
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1632824986562" />
-    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.25.1440.813@0.25.1440.813" timestamp="1632828989618" />
-    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1632829541797" />
-    <state width="1398" height="161" key="GridCell.Tab.0.center" timestamp="1633633378954">
-      <screen x="0" y="25" width="1440" height="805" />
-    </state>
-    <state width="1398" height="161" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1633633378954" />
-    <state width="1398" height="206" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1632824986560" />
-    <state width="1398" height="164" key="GridCell.Tab.0.center/0.25.1440.813@0.25.1440.813" timestamp="1632828989617" />
-    <state width="1398" height="164" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1632829541796" />
-    <state width="1398" height="161" key="GridCell.Tab.0.left" timestamp="1633633378953">
-      <screen x="0" y="25" width="1440" height="805" />
-    </state>
-    <state width="1398" height="161" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1633633378953" />
-    <state width="1398" height="206" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1632824986560" />
-    <state width="1398" height="164" key="GridCell.Tab.0.left/0.25.1440.813@0.25.1440.813" timestamp="1632828989617" />
-    <state width="1398" height="164" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1632829541795" />
-    <state width="1398" height="161" key="GridCell.Tab.0.right" timestamp="1633633378954">
-      <screen x="0" y="25" width="1440" height="805" />
-    </state>
-    <state width="1398" height="161" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1633633378954" />
-    <state width="1398" height="206" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1632824986561" />
-    <state width="1398" height="164" key="GridCell.Tab.0.right/0.25.1440.813@0.25.1440.813" timestamp="1632828989618" />
-    <state width="1398" height="164" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1632829541796" />
-    <state x="208" y="25" key="SettingsEditor" timestamp="1632827756725">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state x="208" y="25" key="SettingsEditor/0.25.1440.813@0.25.1440.813" timestamp="1632827756725" />
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2" timestamp="1632959529008">
-      <screen x="0" y="25" width="1440" height="805" />
-    </state>
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.25.1440.805@0.25.1440.805" timestamp="1632959529008" />
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.807@0.25.1440.807" timestamp="1632698909549" />
-    <state x="320" y="166" key="Vcs.Push.Dialog.v2/0.25.1440.814@0.25.1440.814" timestamp="1632829521784" />
   </component>
 </project>
