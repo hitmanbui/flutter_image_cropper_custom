@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1257035066/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-1257035066/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1517715903/android.image_cropper.iml" filepath="$PROJECT_DIR$/.idea/modules/1517715903/android.image_cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2112556457/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2112556457/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-458570681/android.image_picker_for_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-458570681/android.image_picker_for_web.iml" />
     </modules>
   </component>
 </project>
