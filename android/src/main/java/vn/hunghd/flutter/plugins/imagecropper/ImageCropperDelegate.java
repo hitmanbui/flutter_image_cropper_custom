@@ -24,7 +24,7 @@ import static android.app.Activity.RESULT_OK;
 public class ImageCropperDelegate implements PluginRegistry.ActivityResultListener {
     private final Activity activity;
     private MethodChannel.Result pendingResult;
-    private FileUtils fileUtils;
+    private final FileUtils fileUtils;
 
     public ImageCropperDelegate(Activity activity) {
         this.activity = activity;
