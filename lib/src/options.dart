@@ -60,6 +60,7 @@ class CropAspectRatio {
 class AndroidUiSettings {
   /// desired text for Toolbar title
   final String? toolbarTitle;
+  final String? cameraMessage;
 
   /// desired color of the Toolbar
   final Color? toolbarColor;
@@ -113,6 +114,7 @@ class AndroidUiSettings {
 
   const AndroidUiSettings(
       {this.toolbarTitle,
+        this.cameraMessage,
       this.toolbarColor,
       this.statusBarColor,
       this.toolbarWidgetColor,
@@ -132,6 +134,7 @@ class AndroidUiSettings {
 
   Map<String, dynamic> toMap() => {
         'android.toolbar_title': this.toolbarTitle,
+        'android.camera_message': this.cameraMessage,
         'android.toolbar_color': int32(this.toolbarColor?.value),
         'android.statusbar_color': int32(this.statusBarColor?.value),
         'android.toolbar_widget_color': int32(this.toolbarWidgetColor?.value),

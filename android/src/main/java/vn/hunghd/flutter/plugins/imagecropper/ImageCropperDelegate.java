@@ -128,6 +128,7 @@ public class ImageCropperDelegate implements PluginRegistry.ActivityResultListen
 
     private UCrop.Options setupUiCustomizedOptions(UCrop.Options options, MethodCall call) {
         String title = call.argument("android.toolbar_title");
+        String cameraMessage = call.argument("android.camera_message");
         Integer toolbarColor = call.argument("android.toolbar_color");
         Integer statusBarColor = call.argument("android.statusbar_color");
         Integer toolbarWidgetColor = call.argument("android.toolbar_widget_color");
@@ -147,6 +148,11 @@ public class ImageCropperDelegate implements PluginRegistry.ActivityResultListen
         if (title != null) {
             options.setToolbarTitle(title);
         }
+
+        if (cameraMessage != null) {
+            options.setCameraMessage(cameraMessage);
+        }
+
         if (toolbarColor != null) {
             options.setToolbarColor(toolbarColor);
         }

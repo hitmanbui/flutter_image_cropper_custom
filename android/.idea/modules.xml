@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/image_cropper.iml" filepath="$PROJECT_DIR$/.idea/modules/image_cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image_cropper.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/image_cropper.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image_cropper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/image_cropper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image_cropper.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/image_cropper.unitTest.iml" />
     </modules>
   </component>
 </project>

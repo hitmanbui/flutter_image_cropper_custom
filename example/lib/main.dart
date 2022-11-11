@@ -115,7 +115,9 @@ class _MyHomePageState extends State<MyHomePage> {
             toolbarColor: Color(0xFF14928E),
             toolbarWidgetColor: Colors.white,
             initAspectRatio: CropAspectRatioPreset.original,
-            lockAspectRatio: false),
+            lockAspectRatio: false,
+            cameraMessage: "Test"
+        ),
         iosUiSettings: IOSUiSettings(
           title: 'Cropper',
         ));
